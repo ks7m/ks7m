@@ -1,55 +1,65 @@
-# 🌟 Olá! 👋 Eu sou o Kauan, Desenvolvedor Front-End em Construção!
+# Olá! Eu sou o Kauan 💻
 
-<img src="https://link-direto-para-seu-gif-hospedado/binary_matrix_bg.gif" alt="Efeito Matrix de números binários caindo" width="100%"/> 
-
-> 💡 **Foco Principal:** Transformar ideias em interfaces web **responsivas** e **interativas** com o tripé: **HTML, CSS e JavaScript**.
+### Desenvolvedor Front-End | Focado em HTML, CSS e JavaScript.
 
 ---
 
-## 🛠️ Meu Foco Técnico Atual
+## 🚀 Skills em Desenvolvimento
 
-Estou dedicando 100% dos meus estudos aos fundamentos que constroem a web moderna, priorizando a **aplicação prática** dos conceitos.
+Minha jornada de aprendizado é dedicada a construir a **base da web** com excelência. Abaixo, detalho meu foco de estudo:
 
-| Tecnologia | Status Atual | Habilidade e Objetivo Principal |
+### 🌐 Core Web Technologies
+
+| Linguagem / Tecnologia | Status Atual | Habilidades em Foco |
 | :--- | :--- | :--- |
-| **HTML5** | Sólido | Praticando **Marcação Semântica** e estrutura otimizada de conteúdo. |
-| **CSS3** | Em Progresso | Domínio de **Layouts Responsivos** (Flexbox & CSS Grid) e uso de variáveis (Custom Properties). |
-| **JavaScript** | Em Estudo | Foco em **Manipulação do DOM**, `event listeners` e lógica de programação para interatividade. |
+| **HTML5** | Em Estudo | Estrutura **Semântica** de Páginas e Acessibilidade (WCAG). |
+| **CSS3** | Em Estudo | Domínio de **Layouts Responsivos** (Flexbox, CSS Grid) e **Animações** sem JS. |
+| **JavaScript** | Em Estudo | Manipulação **Eficiente do DOM** e lógica de programação moderna (ES6+). |
 
-### Ferramentas e Outras Habilidades
-
-Estou construindo meus projetos utilizando as seguintes ferramentas:
+### 🛠️ Ferramentas e Outras Habilidades
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kauan)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Terminal](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
 
 ---
 
-## 🚀 Onde Quero Chegar (Meus Objetivos)
+## 🎯 Próximos Passos Técnicos
 
-Minha meta é construir uma base robusta no Front-End para uma progressão técnica estruturada.
+Meu objetivo é aprimorar a base antes de migrar para *frameworks* mais avançados.
 
-1.  **Dominar o JavaScript Avançado:** Estudar a fundo a sintaxe ES6+ e conceitos como *Async/Await* e *Promises*, conforme o *JavaScript\_Manual\_Moderno.pdf*.
-2.  **Transição para um Framework:** Após a consolidação do JS, iniciar o estudo de um framework moderno (como **React** ou **Vue.js**) para construção de SPAs.
-3.  **Desenvolvimento Orientado a Boas Práticas:** Garantir que meus projetos sigam padrões de organização e manutenção, aplicando os princípios do *Boas\_Praticas\_De\_Codigo.pdf*.
-
----
-
-## 💡 Meus Projetos de Destaque
-
-Nenhum Atualmente.
-
-### EM BREVE
-* **[Projeto 1 - Ex: Landing Page Responsiva]**
-* **[Projeto 2 - Ex: Galeria de Fotos com JS]**
+1.  **Aprofundamento em JS:** Explorar conceitos como *Promises* e *Async/Await* para operações assíncronas (Conforme o *JavaScript\_Manual\_Moderno.pdf*).
+2.  **Organização de Estilos:** Implementar metodologias CSS como **BEM** e começar o estudo de **Sass/SCSS** para escalabilidade.
+3.  **Frameworks Modernos:** Planejar a transição para **React** ou **Vue.js** no futuro próximo.
 
 ---
 
-## 📬 Conecte-se Comigo!
+## ✨ Destaque: Aprendizado Contínuo
 
-Estou sempre aberto a feedbacks sobre meus projetos, convites para colaboração e oportunidades de aprendizado na área de tecnologia.
+Aqui está um resumo visual do meu foco atual (simulação de barras de progresso usando Markdown):
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([SEU LINK DO LINKEDIN AQUI])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com)
+**HTML5**
+$$
+\text{[}\blacksquare\blacksquare\blacksquare\blacksquare\blacksquare\blacksquare\blacksquare\blacksquare\blanksquare\blanksquare\text{]} \ 80\% \ (\text{Sólido})
+$$
+
+**CSS3**
+$$
+\text{[}\blacksquare\blacksquare\blacksquare\blacksquare\blacksquare\blacksquare\blanksquare\blanksquare\blanksquare\blanksquare\text{]} \ 60\% \ (\text{Em Progresso})
+$$
+
+**JavaScript**
+$$
+\text{[}\blacksquare\blacksquare\blacksquare\blacksquare\blanksquare\blanksquare\blanksquare\blanksquare\blanksquare\blanksquare\text{]} \ 40\% \ (\text{Iniciando Lógica})
+$$
+
+> *O progresso é medido pela minha capacidade de aplicar os conceitos de forma independente em novos projetos.*
+
+---
+
+## 💡 Meus Projetos
+
+*Em breve, esta seção será preenchida com links para meus projetos de Landing Pages, Calculadoras e Galeria de Fotos, aplicando os conhecimentos de HTML Semântico, Flexbox e Manipulação do DOM.*
+
+
