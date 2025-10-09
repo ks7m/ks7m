@@ -1,12 +1,25 @@
-## 🔧 Languages and Tools
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</div>
+# 🌐 [Nome do Seu Projeto Aqui]
+
+Este projeto é um [Descreva o tipo de projeto, ex: website estático, landing page, galeria de fotos interativa] desenvolvido com as tecnologias fundamentais da web. O objetivo é [Descreva o propósito, ex: praticar manipulação do DOM, estilização responsiva, ou layout Flexbox/Grid].
+
+## 🛡️ Badges de Tecnologias
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+---
+
+## 📖 Tabela de Conteúdo
+
+* [Estrutura do Projeto](#-estrutura-do-projeto)
+* [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+* [Como Visualizar](#-como-visualizar)
+* [Próximos Passos](#-próximos-passos-para-desenvolvimento)
+* [Licença](#-licença)
+
+---
+
+## 📂 Estrutura do Projeto
+
+Abaixo está a organização de pastas e arquivos para que novos colaboradores entendam o fluxo:
