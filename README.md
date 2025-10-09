@@ -10,8 +10,8 @@ Como iniciante apaixonado por programação, estou dedicando 100% dos meus estud
 
 | Tecnologia | Status Atual | Foco e Habilidade Principal |
 | :--- | :--- | :--- |
-| **HTML5** | Sólido | Marcação Semântica e Estrutura de Conteúdo. |
-| **CSS3** | Em Progresso | Layouts Responsivos (Flexbox & CSS Grid) e Pré-processadores (Sass). |
+| **HTML5** | Em Estudo | Marcação Semântica e Estrutura de Conteúdo. |
+| **CSS3** | Em Estudo | Layouts Responsivos (Flexbox & CSS Grid) e Pré-processadores (Sass). |
 | **JavaScript** | Em Estudo | Manipulação do **DOM**, `event listeners`, e Funções Assíncronas (`fetch` para futuras integrações). |
 
 ### Ferramentas e Outras Habilidades
@@ -34,20 +34,9 @@ Minha meta é avançar do núcleo Front-End para frameworks mais robustos.
 
 ## 💡 Meus Projetos de Destaque
 
-Confira alguns dos meus repositórios onde apliquei meus conhecimentos mais recentes:
-
-* **[Nome do Projeto 1 - Ex: Landing Page Responsiva]**
-    * *Foco:* Design responsivo com Flexbox e Media Queries.
-    * [Link para o Repositório]
-* **[Nome do Projeto 2 - Ex: Calculadora JS]**
-    * *Foco:* Lógica JavaScript, manipulação do DOM.
-    * [Link para o Repositório]
+Nenhum Atualmente 
+EM BREVE
 
 ---
 
-## 📬 Fale Comigo!
 
-Estou sempre aberto a feedbacks, convites para colaboração e oportunidades de aprendizado!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Seu Link do LinkedIn])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com)
