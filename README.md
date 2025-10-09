@@ -1,65 +1,79 @@
-# Olá! Eu sou o Kauan 💻
+# Olá! 👋 Eu sou o Kauan, Desenvolvedor Front-End em Construção!
 
-### Desenvolvedor Front-End | Focado em HTML, CSS e JavaScript.
+
+
+> 💡 Focado em transformar ideias em interfaces web responsivas e interativas com o tripé: **HTML, CSS e JavaScript**.
+
+
 
 ---
 
-## 🚀 Skills em Desenvolvimento
 
-Minha jornada de aprendizado é dedicada a construir a **base da web** com excelência. Abaixo, detalho meu foco de estudo:
 
-### 🌐 Core Web Technologies
+## 🛠️ Meu Foco Técnico Atual
 
-| Linguagem / Tecnologia | Status Atual | Habilidades em Foco |
+
+
+Como iniciante apaixonado por programação, estou dedicando 100% dos meus estudos aos fundamentos que constroem a web moderna.
+
+
+
+| Tecnologia | Status Atual | Foco e Habilidade Principal |
+
 | :--- | :--- | :--- |
-| **HTML5** | Em Estudo | Estrutura **Semântica** de Páginas e Acessibilidade (WCAG). |
-| **CSS3** | Em Estudo | Domínio de **Layouts Responsivos** (Flexbox, CSS Grid) e **Animações** sem JS. |
-| **JavaScript** | Em Estudo | Manipulação **Eficiente do DOM** e lógica de programação moderna (ES6+). |
 
-### 🛠️ Ferramentas e Outras Habilidades
+| **HTML5** | Em Estudo | Marcação Semântica e Estrutura de Conteúdo. |
+
+| **CSS3** | Em Estudo | Layouts Responsivos (Flexbox & CSS Grid) e Pré-processadores (Sass). |
+
+| **JavaScript** | Em Estudo | Manipulação do **DOM**, `event listeners`, e Funções Assíncronas (`fetch` para futuras integrações). |
+
+
+
+### Ferramentas e Outras Habilidades
+
+
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Terminal](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
+
+
 
 ---
 
-## 🎯 Próximos Passos Técnicos
 
-Meu objetivo é aprimorar a base antes de migrar para *frameworks* mais avançados.
 
-1.  **Aprofundamento em JS:** Explorar conceitos como *Promises* e *Async/Await* para operações assíncronas (Conforme o *JavaScript\_Manual\_Moderno.pdf*).
-2.  **Organização de Estilos:** Implementar metodologias CSS como **BEM** e começar o estudo de **Sass/SCSS** para escalabilidade.
-3.  **Frameworks Modernos:** Planejar a transição para **React** ou **Vue.js** no futuro próximo.
+## 🚀 Onde Quero Chegar (Meus Objetivos)
 
----
 
-## ✨ Destaque: Aprendizado Contínuo
 
-Aqui está um resumo visual do meu foco atual (simulação de barras de progresso usando Markdown):
+Minha meta é avançar do núcleo Front-End para frameworks mais robustos.
 
-**HTML5**
-$$
-\text{[}\blacksquare\blacksquare\blacksquare\blacksquare\blacksquare\blacksquare\blacksquare\blacksquare\blanksquare\blanksquare\text{]} \ 80\% \ (\text{Sólido})
-$$
 
-**CSS3**
-$$
-\text{[}\blacksquare\blacksquare\blacksquare\blacksquare\blacksquare\blacksquare\blanksquare\blanksquare\blanksquare\blanksquare\text{]} \ 60\% \ (\text{Em Progresso})
-$$
 
-**JavaScript**
-$$
-\text{[}\blacksquare\blacksquare\blacksquare\blacksquare\blanksquare\blanksquare\blanksquare\blanksquare\blanksquare\blanksquare\text{]} \ 40\% \ (\text{Iniciando Lógica})
-$$
+1.  **Dominar o JavaScript Avançado:** Estudar a fundo a sintaxe ES6+ e a lógica de programação orientada a objetos em JS, conforme o *JavaScript\_Manual\_Moderno.pdf*.
 
-> *O progresso é medido pela minha capacidade de aplicar os conceitos de forma independente em novos projetos.*
+2.  **Transição para um Framework:** Começar a estudar um framework moderno, como **React** ou **Vue.js**, para construir Single Page Applications (SPAs).
+
+3.  **Desenvolvimento Orientado a Boas Práticas:** Aplicar o que aprendi sobre organização de código e manutenção do *Boas\_Praticas\_De\_Codigo.pdf* em todos os meus repositórios.
+
+
 
 ---
 
-## 💡 Meus Projetos
-
-*Em breve, esta seção será preenchida com links para meus projetos de Landing Pages, Calculadoras e Galeria de Fotos, aplicando os conhecimentos de HTML Semântico, Flexbox e Manipulação do DOM.*
 
 
+## 💡 Meus Projetos de Destaque
+
+
+
+Nenhum Atualmente 
+
+EM BREVE
+
+
+
+---
