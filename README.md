@@ -1,11 +1,5 @@
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Olá!+Sou+um+estudante+de+13+anos.;Estou+aprendendo+a+programar+e+criando+meus+projetos!;&center=true&size=25" alt="Typing Animation" />
-</div>
-
 ---
-
-
 
 
 # Olá! 👋 Eu sou o Kauan, Desenvolvedor Front-End em Construção!
