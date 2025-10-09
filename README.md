@@ -15,8 +15,72 @@
 <div align="center">
   
   <a href="https://devicon.dev/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://devicon.dev/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://devicon.dev/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://devicon.dev/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://devicon.dev/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
+  </a>
+  
+</div>
+
+<br>
+
+<h2 align="center" style="color: #00BFFF;">✨ Minhas Atividades e Estatísticas</h2>
+
+<div align="center">
+  
+  <a href="https://github.com/SEU_NOME_DE_USUARIO">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=SEU_NOME_DE_USUARIO&show_icons=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=0D1117&theme=dark" 
+      alt="Estatísticas do GitHub"
+      width="400px"
+    />
+  </a>
+  
+  <a href="https://github.com/SEU_NOME_DE_USUARIO">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_NOME_DE_USUARIO&layout=compact&hide_border=true&title_color=00BFFF&text_color=FFFFFF&bg_color=0D1117&theme=dark" 
+      alt="Top Linguagens"
+      width="400px"
+    />
+  </a>
+  
+</div>
+
+<br>
+
+<h2 align="center" style="color: #00BFFF;">🔗 Quer Trocar uma Ideia?</h2>
+
+<div align="center">
+  
+  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00BFFF&labelColor=0D1117" alt="Email Badge"/>
+  </a>
+  
+</div>
+
+<br>
+<br>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SEU_NOME_DE_USUARIO/count.svg" alt="Contador de Visualizações" />
+</div>
