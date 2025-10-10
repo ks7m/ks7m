@@ -2,11 +2,11 @@
 ---
 
 
-# Olá! 👋 Eu sou o Kauan, Desenvolvedor Front-End em Construção!
+# Olá! 👋 Eu sou o Kauan,Pretendo me tornar Front-End 
 
 
 
-> 💡 Focado em transformar ideias em interfaces web responsivas e interativas com o tripé: **HTML, CSS e JavaScript**.
+> 💡 Focado em transformar ideias em interfaces web responsivas e interativas com o **HTML, CSS e JavaScript**.
 
 
 
@@ -14,11 +14,11 @@
 
 
 
-## 🛠️ Meu Foco Técnico Atual
+## 🛠️ Meu Foco De Estudo Atual
 
 
 
-Como iniciante apaixonado por programação, estou dedicando 100% dos meus estudos aos fundamentos que constroem a web moderna.
+Como iniciante apaixonado por programação, estou dedicando 100% dos meus estudos aos fundamentos que constroem a web.
 
 
 
@@ -54,11 +54,11 @@ Como iniciante apaixonado por programação, estou dedicando 100% dos meus estud
 
 
 
-Minha meta é avançar do núcleo Front-End para frameworks mais robustos.
+Minha meta é Fazer sites com essas linguagens acima.
 
 
 
-1.  **Dominar o JavaScript Avançado:** Estudar a fundo a sintaxe ES6+ e a lógica de programação orientada a objetos em JS, conforme o *JavaScript\_Manual\_Moderno.pdf*.
+1.  **Dominar o JavaScript Avançado:** Estudar a fundo a lógica de programação orientada a objetos em JS, conforme o *JavaScript\_Manual\_Moderno.pdf*.
 
 2.  **Transição para um Framework:** Começar a estudar um framework moderno, como **React** ou **Vue.js**, para construir Single Page Applications (SPAs).
 
