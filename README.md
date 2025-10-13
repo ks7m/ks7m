@@ -1,3 +1,4 @@
+<img src="./Screenshot_20251013-124111.png" alt="Banner de Desenvolvimento" width="600"/>
 # ✍ Kauan Souza
 
 ## ![Badge](https://img.shields.io/badge/Desenvolvedor%20FullStack-0D1117?style=for-the-badge&logoColor=800080&labelColor=800080&color=0D1117)
