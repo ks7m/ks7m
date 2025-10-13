@@ -7,7 +7,7 @@
 
 ## 💡 Sobre Mim
 
-> 🚀 Programador Júnior com uma paixão inesgotável por criar experiências digitais incríveis!
+> 🚀 Programador Júnior com uma paixão por Progamacao
 >
 > Atualmente, estou focado em aprofundar meus conhecimentos em **Engenharia de Software** enquanto transformo conceitos de *design* em **interfaces responsivas** e dinâmicas, usando a tríade mágica: HTML, CSS e JavaScript. Minha missão é construir a **web do futuro**, um pixel de cada vez. 🌐
 
