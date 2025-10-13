@@ -31,8 +31,6 @@ Estou sempre aberto a aprender novas tecnologias e trocar experiências com outr
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks7m&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Araujo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-araujoo)
