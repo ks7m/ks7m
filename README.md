@@ -3,7 +3,7 @@
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+Kauan!;Apaixonado+por+programação!" alt="Typing SVG" />
 </p>
----
+
 
 ## 💡 Sobre Mim
 
