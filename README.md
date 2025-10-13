@@ -22,9 +22,3 @@ Busco sempre aprender novas tecnologias e criar soluções eficientes que facili
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ks7m&show_icons=true&locale=pt-br&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks7m&layout=compact&langs_count=7&locale=pt-br&theme=tokyonight&custom_title=Tecnologias" />
-</div>
