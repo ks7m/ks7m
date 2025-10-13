@@ -20,6 +20,7 @@ Estou sempre aberto a aprender novas tecnologias e trocar experiências com outr
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://tse1.mm.bing.net/th/id/OIP.0bL3n_GRn74mOd-xmZiL2QAAAA?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3"
 </p>
 
 ---
