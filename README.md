@@ -1,9 +1,7 @@
 <p align="center">
     <h1>Olá, Eu sou o Jovem Dev! 👋</h1> 
     
-    <img src="./Screenshot_20251013-124111.png" alt="Banner de Desenvolvimento" width="600"/>
-    
-    </p>
+
 
 ---
 
