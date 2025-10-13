@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Banner de Desenvolvimento" width="600"/>
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Banner de Desenvolvimento" width="300"/>
 
 # ✍ Kauan Souza
 
