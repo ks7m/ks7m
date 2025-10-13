@@ -2,15 +2,15 @@
 
 ## ![Badge](https://img.shields.io/badge/Desenvolvedor%20FullStack-0D1117?style=for-the-badge&logoColor=800080&labelColor=800080&color=0D1117)
 
-Estudante de **Desenvolvimento Web**, com foco em **aplicações full stack**.  
-Tenho experiência com **Git** e **GitHub**, além de sólidos conhecimentos em **HTML**, **CSS** e **JavaScript**.
+Olá! Estou começando minha trajetória na área de **Desenvolvimento Web**, com interesse em aprender sobre **aplicações full stack**.  
+Atualmente, estou estudando **HTML**, **CSS** e **JavaScript**, e buscando entender como usar **Git** e **GitHub** para organizar e versionar meus projetos.
 
-Gosto de criar projetos práticos para desenvolver minhas habilidades e aplicar boas práticas de programação, utilizando **Git/GitHub** para organização e versionamento.  
-Busco sempre aprender novas tecnologias e criar soluções eficientes que facilitem a vida dos usuários.
+Gosto de praticar criando pequenos projetos para colocar em prática o que estou aprendendo e evoluir cada dia mais.  
+Estou sempre aberto a aprender novas tecnologias e trocar experiências com outros desenvolvedores.
 
 ---
 
-## 🌎 Linguagens e Tecnologias
+## 🌎 Linguagens e Tecnologias que estou estudando
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
@@ -19,6 +19,13 @@ Busco sempre aprender novas tecnologias e criar soluções eficientes que facili
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
+
+
+<hr>
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/seulinkedin)  
+- Email: seuemail@email.com
 
 ---
 
