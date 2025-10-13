@@ -1,6 +1,6 @@
 <p align="center">
     <h1>Olá, Eu sou o Jovem Dev! 👋</h1> 
-    <img src="https://media.giphy.com/media/Qv0fN74y53zRkS4RzX/giphy.gif" alt="Banner de Código em Movimento" width="600"/>
+    <img src="./Screenshot_20251013-124111.png" alt="Banner de Desenvolvimento" width="600"/>
 </p>
 
 ---
@@ -11,27 +11,25 @@
 > 
 > Atualmente, estou focado em aprofundar meus conhecimentos em **Engenharia de Software** enquanto transformo conceitos de *design* em **interfaces responsivas** e dinâmicas, usando a tríade mágica: HTML, CSS e JavaScript. Minha missão é construir a **web do futuro**, um pixel de cada vez. 🌐
 
-<br> ## 🛠️ Minhas Habilidades (Tech Stack)
+<br>
 
-### Linguagens e Estruturas Fundamentais
+## 🛠️ Minhas Habilidades (Tech Stack)
+
+### 📚 Foco Principal e Linguagens em Estudo
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Badge HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Badge CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Badge JavaScript" />
+<img src="https://img.shields.io/badge/Estudando-Progresso-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTEwIDYuMTJMMTAgMTBMMTAgMjJMOCAxNkw2IDIyTDggMTYgTDggMTJIMzQgTDEwIDYuMTJaTTggMTJIMjIgMTBMMjAgMkw4IDRMMTAgNi4xMkw4IDEyWiIvPjwvc3ZnPg==&logoColor=white" alt="Badge Estudando Agora" />
 
-### Ferramentas Essenciais
+### Ferramentas Essenciais (Workflow)
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Badge Git" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Badge GitHub" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Badge VS Code" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Badge Figma" />
 
-### 📚 Estudando no Momento (Próximo Nível)
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Badge React - Estudando" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Badge Node.js - Estudando" />
-
-<br>
+<br> 
 
 ---
 
@@ -65,4 +63,3 @@
     ***"A melhor maneira de prever o futuro é criá-lo."*** <br>
     <i>— Peter Drucker. E com código.</i> ✨
 </p>
-
