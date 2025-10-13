@@ -48,21 +48,17 @@
 
 ## 📫 Conecte-se Comigo
 
-<a href="URL_DO_SEU_LINKEDIN" target="_blank">
+<a href="www.linkedin.com/in/kauan-araujoo" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Badge LinkedIn" />
 </a>
 
-<a href="mailto:SEU_EMAIL@EXEMPLO.COM" target="_blank">
+<a href="kauazinhoeu62@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Badge Email" />
-</a>
-
-<a href="URL_DO_SEU_PORTFOLIO" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-F7DF1E?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Badge Portfolio" />
 </a>
 
 <br>
 
 <p align="center">
-    ***"A melhor maneira de prever o futuro é criá-lo."*** <br>
+    "A melhor maneira de prever o futuro é criá-lo." <br>
     <i>— Peter Drucker. E com código.</i> ✨
 </p>
