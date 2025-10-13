@@ -20,12 +20,11 @@ Estou sempre aberto a aprender novas tecnologias e trocar experiências com outr
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
-
 <hr>
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seulinkedin)  
-- Email: seuemail@email.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-linkedin)
 
----
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+
 
