@@ -20,11 +20,12 @@ Estou sempre aberto a aprender novas tecnologias e trocar experiências com outr
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
-<hr>
+<p align="left">
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Araujo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-araujoo)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+[![Gmail](https://img.shields.io/badge/Email-kauazinhoeu62@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauazinhoeu62@gmail.com)
+
 
 
