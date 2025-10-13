@@ -13,7 +13,7 @@
 
 <br> 
 
-## 🛠️ Minhas Habilidades (Tech Stack)
+## 🛠️ Minhas Habilidades (Full Stack)
 
 ### 📚 Foco Principal e Linguagens em Estudo
 
