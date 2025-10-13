@@ -1,9 +1,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Dev animado"/>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+o+ks7m!;Bem-vindo+ao+meu+GitHub!;Apaixonado+por+tecnologia+e+código!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+Kauan!;Apaixonado+por+programação!" alt="Typing SVG" />
 </p>
-
 ---
 
 ## 💡 Sobre Mim
