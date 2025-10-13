@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ks7m/ks7m/main/Screenshot_20251013-124111.png" alt="Banner de Desenvolvimento" width="600"/>
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Banner de Desenvolvimento" width="600"/>
 
 # ✍ Kauan Souza
 
