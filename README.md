@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ks7m/ks7m/main/Screenshot_20251013-124111.png" alt="Banner" width="600" />
+<img src="https://raw.githubusercontent.com/ks7m/ks7m/main/Screenshot_20251013-124111.png" alt="Banner" width="600"/>
 
 # ✍ Kauan Souza
 
