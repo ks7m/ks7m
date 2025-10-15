@@ -27,8 +27,7 @@ Estou sempre aberto a aprender novas tecnologias e trocar experiências com outr
 ## ⚡ Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="[![ks7m](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=merko)]
-"/>
+  <img height="180em" src="https://github.com/ks7m/github-readme-stats"/>
  
 </p>
 
