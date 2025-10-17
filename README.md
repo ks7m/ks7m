@@ -25,11 +25,8 @@ Estou sempre aberto a aprender novas tecnologias e trocar experiências com outr
 ---
 
 ## ⚡ Estatísticas do GitHub
-<a href="https://github.com/ks7m">
-
-<p align="left">
-  <img height="180em" src="https://github.com/ks7m/github-readme-stats.vercel.app/api?username=ks7m_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
- 
+<img src="assets/profile-banner.png" alt="Banner do perfil" width="800">
+ <p align="center"><img src="assets/screenshot-app.png" alt="Screenshot" width="700"></p>
 </p>
 
 ## 📫 Contato
