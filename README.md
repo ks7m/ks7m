@@ -25,7 +25,7 @@ Estou sempre aberto a aprender novas tecnologias e trocar experiências com outr
 ---
 
 ## ⚡ Estatísticas do GitHub
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ks7m&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ks7m&show_icons=true&theme=default&include_all_commits=true)
 
 
 ## 📫 Contato
