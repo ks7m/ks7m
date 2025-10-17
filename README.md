@@ -25,7 +25,8 @@ Estou sempre aberto a aprender novas tecnologias e trocar experiências com outr
 ---
 
 ## ⚡ Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ks7m&show_icons=true&theme=default&include_all_commits=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ks7m&show_icons=true&theme=dark&include_all_commits=true)
+
 
 
 ## 📫 Contato
