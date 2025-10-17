@@ -25,7 +25,7 @@ Estou sempre aberto a aprender novas tecnologias e trocar experiências com outr
 ---
 
 ## ⚡ Estatísticas do GitHub
-(https://raw.githubusercontent.com/ks7m/ks7m/main/assets/profile-banner.png
+(https://raw.githubusercontent.com/ks7m/ks7m/main/assets/profile-banner.png)
 
 
 ## 📫 Contato
