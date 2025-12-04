@@ -33,5 +33,3 @@ Estou sempre aberto a aprender novas tecnologias e trocar experiências com outr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Araujo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-araujoo)
 
-[![Gmail](https://img.shields.io/badge/Email-kauazinhoeu62@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauazinhoeu62@gmail.com)
-
